@@ -1,0 +1,42 @@
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\App.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\GroupedItemsPage.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\GroupDetailPage.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\ItemDetailPage.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\Sample App.xr.xml
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\Sample App.exe
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\Sample App.pdb
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\resources.pri
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\AppxManifest.xml
+E:\Himanshu Test\Sample App\Sample App\bin\Debug\Sample App.build.appxrecipe
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\App.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\App.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupedItemsPage.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupedItemsPage.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupDetailPage.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupDetailPage.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\ItemDetailPage.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\ItemDetailPage.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\XamlTypeInfo.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\App.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupedItemsPage.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupDetailPage.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\ItemDetailPage.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\App.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupedItemsPage.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\GroupDetailPage.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\ItemDetailPage.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\XamlSaveStateFile.xml
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\Sample App.exe
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\Sample App.pdb
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\priconfig.xml
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\priconfig.xml.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\layout.resfiles
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\layout.resfiles.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\resources.resfiles
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\resources.resfiles.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\pri.resfiles
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\pri.resfiles.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\qualifiers.txt
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\qualifiers.txt.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Himanshu Test\Sample App\Sample App\obj\Debug\ProjectArchitectures.txt

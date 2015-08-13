@@ -1,0 +1,61 @@
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App42RewardService.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App42AchievementService.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App42LeaderBoardService.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App42StorageService.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\GroupedItemsPage.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App42UserService.xbf
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\Sample App.xr.xml
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\Sample App.exe
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\Sample App.pdb
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\resources.pri
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\AppxManifest.xml
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\Sample App.build.appxrecipe
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\App42_WINDOWS_SDK_1.0.dll
+E:\Himanshu Test\Sample App\Sample App\bin\x86\Release\Newtonsoft.Json.dll
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42RewardService.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42RewardService.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42AchievementService.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42AchievementService.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42LeaderBoardService.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42LeaderBoardService.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42StorageService.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42StorageService.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\GroupedItemsPage.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\GroupedItemsPage.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42UserService.g.i.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42UserService.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\XamlTypeInfo.g.cs
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42RewardService.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42LeaderBoardService.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42StorageService.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42UserService.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42RewardService.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42LeaderBoardService.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42StorageService.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42UserService.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\XamlSaveStateFile.xml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42AchievementService.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\GroupedItemsPage.xaml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\App42AchievementService.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\GroupedItemsPage.xbf
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\Sample App.exe
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\Sample App.pdb
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\Sample App.csproj.GenerateResource.Cache
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\priconfig.xml
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\priconfig.xml.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\layout.resfiles
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\layout.resfiles.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\resources.resfiles
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\resources.resfiles.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\pri.resfiles
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\pri.resfiles.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\qualifiers.txt
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\qualifiers.txt.intermediate
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\ProjectArchitectures.txt
+E:\Himanshu Test\Sample App\Sample App\obj\x86\Release\Sample App.csprojResolveAssemblyReference.cache

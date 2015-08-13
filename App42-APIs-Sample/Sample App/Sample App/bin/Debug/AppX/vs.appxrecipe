@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAMITA</Machine>
+    <WindowsUser>SAMITA MAHAJAN</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f06158ca-c3ce-4007-91f2-3f154f77c9d6</PackageIdentityName>
+    <IntermediateOutputPath>E:\Himanshu Test\Sample App\Sample App\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6EB8B354F76484EB427DFF6BBEF96B5F3E40FC5521BBAE192D742BE91D4252D4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f06158ca-c3ce-4007-91f2-3f154f77c9d6_1.0.0.0_neutral__a2xfpytnwkdbe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f06158ca-c3ce-4007-91f2-3f154f77c9d6_a2xfpytnwkdbe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f06158ca-c3ce-4007-91f2-3f154f77c9d6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=SAMITA MAHAJAN</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-28T00:42:16.731</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\Sample App.exe">
+      <PackagePath>Sample App.exe</PackagePath>
+      <Modified>2014-08-28T00:42:16.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-08-28T00:41:57.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-31T15:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-28T00:42:16.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2014-08-28T00:42:16.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2014-08-28T00:42:16.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2014-08-28T00:42:16.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\Sample App.xr.xml">
+      <PackagePath>Sample App.xr.xml</PackagePath>
+      <Modified>2014-08-28T00:42:15.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Himanshu Test\Sample App\Sample App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-28T00:42:16.659</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
