@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AKSHAY-PC</Machine>
+    <WindowsUser>sushi_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ShephertzTechnologiesPvtL.App42WNSSample</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\Debug\App42-WNS-Sample.Windows.exe">
+      <PackagePath>App42-WNS-Sample.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\%40KSH%40Y\%40GITHUB_API\WINDOWS_METRO\App42_WinRT_API\bin\Release\App42-WINDOWS-SDK-1.1.dll">
+      <PackagePath>App42-WINDOWS-SDK-1.1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\%40KSH%40Y\%40GITHUB_API\WINDOWS_METRO\App42_WinRT_API\bin\Release\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\Debug\App42-WNS-Sample.Windows.xr.xml">
+      <PackagePath>App42-WNS-Sample.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

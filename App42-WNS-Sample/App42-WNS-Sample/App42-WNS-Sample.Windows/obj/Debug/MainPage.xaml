@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="App42_WNS_Sample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App42_WNS_Sample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' x:Name="SendToast" Content="Send Toast" HorizontalAlignment="Left" Margin="70,52,0,0" VerticalAlignment="Top" Height="120" Width="500" FontSize="24" FontFamily="Sitka Small"                        />
+        <Button x:ConnectionId='2' x:Name="SendTile" Content="Send Tile" HorizontalAlignment="Right" Margin="0,52,70,0" VerticalAlignment="Top" Height="120" Width="500" FontSize="24" FontFamily="Sitka Small"                       />
+        <!--<StackPanel HorizontalAlignment="Left" Height="268" Margin="73,55,0,0" VerticalAlignment="Top" Width="1220"/>-->
+        <Button x:ConnectionId='3' x:Name="SendToastWithParams" Content="Send Toast With Params" HorizontalAlignment="Left" Margin="70,206,0,0" VerticalAlignment="Top" Height="120" Width="500" FontSize="24" FontFamily="Sitka Small"                                  />
+        <Button x:ConnectionId='4' x:Name="SendTileWithImage" Content="Send Tile With Image" HorizontalAlignment="Right" Margin="0,206,70,0" VerticalAlignment="Top" Height="120" Width="500" FontSize="24" FontFamily="Sitka Small"                                />
+        <ProgressBar x:Name="LoadingBar" IsIndeterminate="True" HorizontalAlignment="Left" Height="268" Width="1366" Margin="0,55,0,0" VerticalAlignment="Top"/>
+        <Border x:Name="StatusBorder" BorderThickness="1" HorizontalAlignment="Left" Height="13" Margin="73,515,0,0" VerticalAlignment="Top" Width="654"/>
+        <TextBlock x:Name="StatusBlock" HorizontalAlignment="Left" Margin="73,533,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="104" Width="1220" FontSize="22"/>
+    </Grid>
+</Page>
+
